@@ -12,6 +12,6 @@ logtea.warn('Warn') # Display warning
 logtea.error('Error') # Display error
 logtea.success('Success') # Display success
 ```
-Output would be: <br>
+Output will be: <br>
 <img src="https://github.com/jezmunh/LogTea/blob/main/img/screenshot.png?raw=true">
 
