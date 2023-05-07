@@ -12,4 +12,6 @@ logtea.warn('Warn') # Display warning
 logtea.error('Error') # Display error
 logtea.success('Success') # Display success
 ```
+Output would be:
+<img src="#">
 
