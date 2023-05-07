@@ -1,7 +1,7 @@
 # LogTea
 The Python library for easy creating log notes.
 # Installing
-For start use LogTea you have to install required libraries from ``requirements.txt`` <br>
+For start use LogTea you have to install required libraries from ``requirements.txt``: <br>
 ``pip install -r requirements.txt``
 # How to use
 ```python
