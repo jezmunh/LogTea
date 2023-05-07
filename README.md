@@ -13,5 +13,5 @@ logtea.error('Error') # Display error
 logtea.success('Success') # Display success
 ```
 Output would be:
-<img src="#">
+<img src="https://github.com/jezmunh/LogTea/blob/main/img/screenshot.png?raw=true">
 
